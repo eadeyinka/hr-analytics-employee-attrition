@@ -1,0 +1,11 @@
+EmployeeID,Department,YearsAtCompany,MonthlyIncome,Overtime,Attrition
+1001,Sales,1,2800,Yes,Yes
+1002,IT,5,5200,No,No
+1003,HR,2,3500,No,No
+1004,Sales,1,3000,Yes,Yes
+1005,IT,7,6100,No,No
+1006,Finance,4,4800,No,No
+1007,Sales,2,3200,Yes,Yes
+1008,HR,8,4300,No,No
+1009,IT,1,2900,Yes,Yes
+1010,Finance,6,5000,No,No
